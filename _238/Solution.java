@@ -1,5 +1,3 @@
-package _236;
-
 public class Solution {
 	public int[] productExceptSelf(int[] nums) {
 		int length = nums.length;

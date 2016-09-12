@@ -1,1 +1,12 @@
-[详细题解博客（陆续更新中）](http://blog.csdn.net/Andy_Shan/article/category/6391665)
+#Programing language
+
+ - cpp
+ - java
+ - python
+#Progress（Update once a week）
+50/398
+#Rank
+ - LeetCode Weekly Contest 3:321 / 619
+ - LeetCode Weekly Contest 4:111 / 600
+#Blog
+[Blog (in succession)](http://blog.csdn.net/Andy_Shan/article/category/6391665)

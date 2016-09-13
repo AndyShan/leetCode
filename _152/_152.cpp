@@ -10,12 +10,9 @@ public:
     	int globel = nums[0];
     	for (int i = 1; i < n; i++) {
     		int max_copy = max_local;
-    		cout << max_copy << endl;
     		max_local = max(max(nums[i],max_local * nums[i]), min_local * nums[i]);
-    		cout << max_local << endl;
     		min_local = min(min(nums[i],max_copy * nums[i]),min_local * nums[i]);
-    		cout << min_local << endl;
-    		globel = max(globel, max_local);
+       		globel = max(globel, max_local);
     	}
     	return globel;
     }

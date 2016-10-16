@@ -80,14 +80,17 @@
 | 415 | Add Strings  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_415) | - |
 | 416 | Partition Equal Subset Sum | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52771233) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_416) | - |
 | 417 | Pacific Atlantic Water Flow | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52781456) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_417) | - |
+| 422 | Valid Word Square | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_422) | - |
+| 423 | Reconstruct Original Digits from English | - | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_423) |
+
 
 
 #Progress
 
-total:81/418
+total:84/418
 cpp:31/418
-java:36/418
-python:12/418
+java:38/418
+python:14/418
 
 #Blog
 

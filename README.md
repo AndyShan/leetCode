@@ -17,7 +17,7 @@
 | 100 | Same Tree  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_100) | - | - |
 | 101 | Symmetric Tree | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_101) | - | - |
 | 102 | Binary Tree Level Order Traversal  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_102) | - | - |
-| 107 | Binary Tree Level Order Traversal II | [View on CSDN](http://blog.csdn.net/andy_shan/article/details/52791437) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_107) | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_107) |
+| 107 | Binary Tree Level Order Traversal II | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52791437) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_107) | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_107) |
 | 108 | Convert Sorted Array to Binary Search Tree | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_108) | - | - |
 | 110 | Balanced Binary Tree | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_110) | - | - |
 | 111 | Minimum Depth of Binary Tree | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_111) | - | - |
@@ -82,14 +82,15 @@
 | 417 | Pacific Atlantic Water Flow | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52781456) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_417) | - |
 | 422 | Valid Word Square | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_422) | - |
 | 423 | Reconstruct Original Digits from English | - | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_423) |
+| 424 | Longest Repeating Character Replacement | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/52840356) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_424) | - |
 
 
 
 #Progress
 
-total:84/418
+total:85/418
 cpp:31/418
-java:38/418
+java:39/418
 python:14/418
 
 #Blog

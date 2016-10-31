@@ -85,6 +85,7 @@
 | 422 | Valid Word Square | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_422) | - |
 | 423 | Reconstruct Original Digits from English | - | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_423) |
 | 424 | Longest Repeating Character Replacement | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/52840356) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_424) | - |
+| 435 | Non-overlapping Intervals | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/52984268) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_435) | - |
 | 437 | Path Sum III | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_437) | - |
 | 438 | Find All Anagrams in a String | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_438) | - | - |
 

@@ -92,15 +92,9 @@
 | 435 | Non-overlapping Intervals | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/52984268) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_435) | - |
 | 437 | Path Sum III | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_437) | - |
 | 438 | Find All Anagrams in a String | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_438) | - | - |
+| 447 | Number of Boomerangs | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_447) | - |
+| 453 | Minimum Moves to Equal Array Elements | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_453) | - |
 
-
-
-#Progress
-
-total:85/418
-cpp:31/418
-java:39/418
-python:14/418
 
 #Blog
 

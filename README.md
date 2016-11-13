@@ -96,6 +96,8 @@
 | 447 | Number of Boomerangs | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_447) | - |
 | 451 | Sort Characters By Frequency | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_451) | - |
 | 453 | Minimum Moves to Equal Array Elements | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_453) | - |
+| 455 | Assign Cookies | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_455) | - |
+| 459 | Repeated Substring Pattern | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_459) | - |
 
 
 #Blog

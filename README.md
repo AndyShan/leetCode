@@ -54,7 +54,8 @@
 | 257 | Binary Tree Paths  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_257) | - | - |
 | 258 | Add Digits  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_258) | - | - |
 | 268 | Missing Number | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52405045) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_268) | - |
-| 278 | First Bad Version    | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_278) | - |
+| 274 | H-Index | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_274) | - |
+| 278 | First Bad Version | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_278) | - |
 | 283 | Move Zeroes  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_283) | - | - |
 | 303 | Range Sum Query - Immutable  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_303) | - |
 | 310 | Minimum Height Trees  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_310) | - |
@@ -96,7 +97,9 @@
 | 447 | Number of Boomerangs | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_447) | - |
 | 451 | Sort Characters By Frequency | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_451) | - |
 | 453 | Minimum Moves to Equal Array Elements | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_453) | - |
+| 454 | 4Sum II | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_454) | - |
 | 455 | Assign Cookies | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_455) | - |
+| 456 | 132 Pattern | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_456) | - |
 | 459 | Repeated Substring Pattern | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_459) | - |
 
 

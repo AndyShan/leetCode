@@ -32,6 +32,7 @@
 | 134 | Gas Station | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52432426) | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_134) |
 | 136 | Single Number | - | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_136) |
 | 137 | Single Number II  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_137) | - |
+| 143 | Reorder List  | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/53185388)] | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_143) | - |
 | 144 | Binary Tree Preorder Traversal | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_144) | - |
 | 147 | Insertion Sort | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/53174822) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_147) | - |
 | 151 | Reverse Words in a String | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52432426) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_151) | - |

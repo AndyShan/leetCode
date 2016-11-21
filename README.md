@@ -32,9 +32,10 @@
 | 134 | Gas Station | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52432426) | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_134) |
 | 136 | Single Number | - | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/python/_136) |
 | 137 | Single Number II  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_137) | - |
-| 143 | Reorder List  | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/53185388) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_143) | - |
+| 141 | Linked List Cycle | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_141) | - | - |
+| 143 | Reorder List  | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/53185388) | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_143) | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_143) | - |
 | 144 | Binary Tree Preorder Traversal | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_144) | - |
-| 147 | Insertion Sort | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/53174822) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_147) | - |
+| 147 | Insertion Sort | [view on CSDN](http://blog.csdn.net/Andy_Shan/article/details/53174822) | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_147) | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_147) | - |
 | 151 | Reverse Words in a String | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52432426) | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_151) | - |
 | 152 | Maximum Product Subarray | [view on CSDN](http://blog.csdn.net/andy_shan/article/details/52524702) | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_152) | - | - |
 | 153 | Find Minimum in Rotated Sorted Array  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_153) | - | - |
@@ -103,6 +104,8 @@
 | 455 | Assign Cookies | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_455) | - |
 | 456 | 132 Pattern | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_456) | - |
 | 459 | Repeated Substring Pattern | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_459) | - |
+| 462 | Minimum Moves to Equal Array Elements II | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_462) | - |
+| 463 | Island Perimeter | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_463) | - |
 
 
 #Blog

@@ -65,6 +65,7 @@
 | 303 | Range Sum Query - Immutable  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_303) | - |
 | 310 | Minimum Height Trees  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_310) | - |
 | 319 | Bulb Switcher  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_319) | - | - |
+| 328 | Odd Even Linked List | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_328) | - |
 | 338 | Counting Bits  | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_338) | - |
 | 342 | Power of Four   | - | - | [AC](https://github.com/AndyShan/leetCode/tree/master/java/_342) | - |
 | 344 | Reverse String  | - | [AC](https://github.com/AndyShan/leetCode/tree/master/cpp/_344) | - | - |
